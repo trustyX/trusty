@@ -10,4 +10,4 @@ Example use cases:
 Unlike other teen monitoring systems, it:
 * makes the notifications sent among the group transparent to encourage trust rather than discourage it. 
 * monitors text messages and content viewing, not just actions like posts or followers. 
-* doesn't force monitoring of everything so personal but unconcerning activity doesn't spam the parent or violate the privacy of the teen As the child grows the parent can adjust a 'trust threshold' to see more or less content as desired. 
+* doesn't force monitoring of everything so personal but unconcerning activity doesn't spam the parent or violate the privacy of the teen. As the child grows the parent can adjust a 'trust threshold' to see more or less content as desired. 
